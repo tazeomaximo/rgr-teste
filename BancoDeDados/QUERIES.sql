@@ -2,7 +2,8 @@
 
 	As queries aqui desenvolvidas forma baseadas em um banco de dados Oracle. Se for outro banco a ser utilizado, apenas a parte de 
 definição de incremento de chave primaria irá alterar.
-	O sql extraído do modelo de dados foi gerado automaticamente pela feramenta. O objetivo dele é apenas de demonstrar como está sendo 
+
+	*OBS.: O sql do modelo de dados foi gerado automaticamente pela feramenta Workbench no padrão Mysql. O objetivo dele é apenas de demonstrar como está sendo 
 feita a relação das tabelas.
 
 =========================================================================================================================================
